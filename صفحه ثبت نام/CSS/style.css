@@ -1,0 +1,167 @@
+body {
+    font-family: vazir;
+    direction: rtl;
+}
+
+.cadr {
+    width: 660px;
+    height: 540px;
+    border-style: groove;
+    border-radius: 10px;
+    margin-right: 335px;
+    margin-top: 50px;
+}
+
+.logo img {
+    margin-right: 230px;
+    margin-top: -20px;
+}
+
+.text {
+    margin-right: 20px;
+    margin-top: -50px;
+    font-size: 13px;
+}
+
+.name {
+    margin-right: 30px;
+    margin-top: -25px;
+}
+
+.box1 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -33px;
+    margin-right: 100px;
+}
+
+.family {
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.box2 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.gmail {
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.box3 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.password {
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.box4 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.old {
+    margin-right: 340px;
+    margin-top: -217px;
+}
+
+.box5 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.jab {
+    margin-right: 340px;
+    margin-top: 30px;
+}
+
+.box6 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.codposti {
+    margin-right: 340px;
+    margin-top: 30px;
+}
+
+.box7 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+.location {
+    margin-right: 340px;
+    margin-top: 30px;
+}
+
+.box8 {
+    width: 160px;
+    height: 35px;
+    border: 1px solid darkgray;
+    border-radius: 7px;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.gem {
+    width: 550px;
+    height: 40px;
+    background-color: #1e00ff;
+    color: white;
+    border-radius: 7px;
+    margin-right: 55px;
+    margin-top: 30px;
+}
+
+.gem:hover{
+    background-color: white;
+    color: #1e00ff;
+    border: 1px solid #1e00ff;
+}
+
+.gem .nn{
+    padding-top: 5px;
+    text-align: center;
+}
+
+.muu {
+    font-size: 13px;
+    text-align: center;
+    margin-top: 22px;
+}

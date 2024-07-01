@@ -1,0 +1,17 @@
+@media only screen and (max-width:578px) {
+    .map ul li a{
+        display: none;
+}
+.map{
+    flex-wrap: wrap;
+}
+.mtn{
+    flex-wrap: wrap;
+}
+}
+
+@media only screen and (max-width:578px) {
+    .tam{
+        flex-wrap: wrap;
+    }
+}
